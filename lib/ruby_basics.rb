@@ -1,3 +1,5 @@
+require 'pry'
+ 
 def division(num1, num2)
   num1 / num2
 end
@@ -25,4 +27,3 @@ end
 def pizza_party(taste = "cheese")
   taste
 end
-
